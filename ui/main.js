@@ -7,6 +7,3 @@ element.innerHTML="chandrashekhar new value";
 //move the image
 var img=document.getElementById("img");
 
-img.onclick=fucntion(){
-    img.style.marginleft='100px';
-}
